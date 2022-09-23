@@ -30,7 +30,7 @@ const ProductView: FC<ProductViewProps> = ({ product, relatedProducts }) => {
             <ProductTag
               name={product.name}
               price={`${price} ${product.price?.currencyCode}`}
-              fontSize={22}
+              fontSize={23}
             />
             <div className={s.sliderContainer}>
               <ProductSlider key={product.id}>
@@ -43,7 +43,7 @@ const ProductView: FC<ProductViewProps> = ({ product, relatedProducts }) => {
                       width={600}
                       height={600}
                       priority={i === 0}
-                      quality="80"
+                      quality="85"
                     />
                   </div>
                 ))}
