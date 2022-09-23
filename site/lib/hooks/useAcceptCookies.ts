@@ -14,7 +14,7 @@ export const useAcceptCookies = () => {
 
   const acceptCookies = () => {
     setAcceptedCookies(true)
-    Cookies.set(COOKIE_NAME, 'accepted', { expires: 365 })
+    Cookies.set(COOKIE_NAME, 'accepted', { expires: 1 })
   }
 
   return {
