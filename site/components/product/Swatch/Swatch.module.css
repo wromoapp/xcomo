@@ -6,8 +6,8 @@
   p-0 shadow-none border-accent-3 border box-border select-none;
   margin-right: calc(0.75rem - 1px);
   overflow: hidden;
-  width: 48px;
-  height: 48px;
+  width: 28px;
+  height: 28px;
 }
 
 .swatch::before,
