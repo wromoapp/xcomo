@@ -1,25 +1,25 @@
 {
-  "title": "ACME Storefront | Powered by Next.js Commerce",
-  "titleTemplate": "%s - ACME Storefront",
-  "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+  "title": "Simyo | Powered by Theme Wromo Commerce",
+  "titleTemplate": "%s - Simyo nextjs Storefront shopify",
+  "description": "Next.js Commerce - connect with shopify Simyo theme",
   "openGraph": {
-    "title": "ACME Storefront | Powered by Next.js Commerce",
-    "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+    "title": "Simyo | Powered by Theme Wromo Commerce",
+    "description": "Next.js Commerce - connect with shopify Simyo theme",
     "type": "website",
-    "url": "https://nextjs.org/commerce",
-    "site_name": "Next.js Commerce",
+    "url": "https://studio-next.myshopify.com/",
+    "site_name": "Simyo E-commerce Onlineshop - responsiv ",
     "images": [
       {
         "url": "/card.png",
         "width": "800",
         "height": "600",
-        "alt": "Next.js Commerce"
+        "alt": ""
       }
     ]
   },
   "twitter": {
-    "handle": "@nextjs",
-    "site": "@nextjs",
+    "handle": "",
+    "site": "@wromoshop",
     "cardType": "summary_large_image"
   }
 }
